@@ -1,0 +1,2 @@
+# -Retrofit-Energy-Productivity-Digital-Twin-and-Decision-Intelligence-Platform-for-MSMEs
+The project uses IoT sensors, digital twin technology, and data analytics to monitor machine performance, estimate energy consumption, identify energy wastage, and improve productivity in MSMEs. It supports affordable industrial digitalization without replacing existing machinery and promotes efficient solar energy utilization.
